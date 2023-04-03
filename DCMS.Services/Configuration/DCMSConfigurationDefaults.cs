@@ -1,4 +1,0 @@
-﻿namespace DCMS.Services.Configuration
-{
-
-}
